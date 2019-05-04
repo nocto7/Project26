@@ -15,6 +15,7 @@
 		47C57D36227B2133004E255A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47C57D35227B2133004E255A /* Assets.xcassets */; };
 		47C57D39227B2133004E255A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47C57D37227B2133004E255A /* LaunchScreen.storyboard */; };
 		47C57D41227B2201004E255A /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 47C57D40227B2201004E255A /* level1.txt */; };
+		47C57D43227DAF0E004E255A /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 47C57D42227DAF0E004E255A /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		47C57D38227B2133004E255A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47C57D3A227B2133004E255A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47C57D40227B2201004E255A /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		47C57D42227DAF0E004E255A /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				47C57D37227B2133004E255A /* LaunchScreen.storyboard */,
 				47C57D3A227B2133004E255A /* Info.plist */,
 				47C57D40227B2201004E255A /* level1.txt */,
+				47C57D42227DAF0E004E255A /* level2.txt */,
 			);
 			path = Project26;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			files = (
 				47C57D41227B2201004E255A /* level1.txt in Resources */,
 				47C57D34227B2130004E255A /* Main.storyboard in Resources */,
+				47C57D43227DAF0E004E255A /* level2.txt in Resources */,
 				47C57D2B227B2130004E255A /* GameScene.sks in Resources */,
 				47C57D36227B2133004E255A /* Assets.xcassets in Resources */,
 				47C57D39227B2133004E255A /* LaunchScreen.storyboard in Resources */,
